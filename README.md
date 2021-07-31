@@ -3,7 +3,7 @@
 # Hey there, Myself Shubham👋!
 
 I’m a full stack developer and cs grad living in INDIA.
-here are my [portfolio](shubham-ghuge.github.io/) and [blog](https://shubham-ghuge.hashnode.dev/) links check them out.
+here are my [portfolio](https://shubham-ghuge.github.io/) and [blog](https://shubham-ghuge.hashnode.dev/) links check them out.
 
 ## 🛠 Tech stack
 
